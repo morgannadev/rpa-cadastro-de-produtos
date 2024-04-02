@@ -1,6 +1,8 @@
 # Descrição do projeto
 Neste projeto, vamos criar uma automação RPA com Python e utilizando as ferramentas da BotCity que realizará cadastro de produtos em um sistema desktop chamado Fakturama, com apoio da visão computacional.
 
+Você pode seguir o passo a passo do desenvolvimento [nesta live](https://www.youtube.com/watch?v=wNL3Nqa96qc) que ficou gravada e disponível no YouTube.
+
 # Preparar o ambiente
 Para executar este projeto, você deverá fazer a etapa de [pré-requisitos desta documentação](https://documentation.botcity.dev/pt/getting-started/prerequisites/), que basicamente são os itens abaixo.
 
